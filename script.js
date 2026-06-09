@@ -4,7 +4,7 @@ let viewRecipe_Container = document.querySelector(".viewRecipe-Container");
 
 let URL = "https://api.spoonacular.com/recipes/complexSearch?";
 
-let apikey = "da7daf5af015463c831fa834d3ecff0c";
+let apikey = "YOUR_API_KEY";
 
 
 let getData = async (query) => {
